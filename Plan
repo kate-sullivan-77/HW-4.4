@@ -1,0 +1,28 @@
+Plan for Repo:
+
+Goal: Create a repository which is easy to navigate, makes logical sense, and contains a plan documnet, readme
+file, QMD file, and the PDF output file. 
+
+Needs: 
+Nouns - QMD file, PDF, file path
+Verbs - upload
+
+Steps:
+1. Include necessary files for QMD file to access through a file path
+2. upload QMD file
+3. upload PDF
+
+Plan for QMD:
+
+Goal: Create a coherent and reproducible document for HW #4.3 which follows the principles of open science and correct code formatting guidelines. 
+
+Needs:
+Nouns - file paths, QWD file, YAML header, fig-alt
+Verbs - change, include
+
+Steps:
+1. Change file paths in QMD file to access the files in the repo
+2. Include a code comment near the top of the QMD document to specify the coding style
+3. Make sure each figure has fig-alt
+4. Include author into YAML header
+5. Include a data modifed in YAML header
