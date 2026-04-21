@@ -788,7 +788,7 @@ average, mutate, geom_line
 ![ChatGPT Plot from Generic Prompt](chatgptPlot.png){#fig-genericPlot fig-align="center" fig-pos=H fig-alt="Line graph showing average values per column with fluctuations across categories y0 to y3.1."}
 
 
-![Developed Prompt AI Rendered Image](calcium_plot.png){#fig-promptedPlot fig-align="center" fig-pos=H}
+![Developed Prompt AI Rendered Image](calcium_plot.png){#fig-promptedPlot fig-align="center" fig-pos=H fig-alt="Line graph showing calcium measurements over four years with blue and orange lines for untreated and treated groups."}
 
 
 When comparing [@fig-genericPlot] and [@fig-promptedPlot], it is clear
@@ -1011,6 +1011,8 @@ reproduces this same chart from calcium.csv.
 **ASU Image Accessibility Tool**
 
 I used the ASU Image Accessibility AI tool on 4/21/2026, which uses the GPT-4o model by OpenAI, for @fig-genericPlot. 
+
+I used the ASU Image Accessibility AI tool on 4/21/2026, which uses the GPT-4o model by OpenAI, for @fig-promptedPlot.
 
 \newpage
 
